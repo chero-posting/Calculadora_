@@ -1,1 +1,2 @@
-print("Hola mundo")
+from tkinter * import 
+
